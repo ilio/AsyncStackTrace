@@ -84,4 +84,8 @@ try{
    }).RethrowUnhandled();
 }
 ```
-More: https://github.com/ilio/AsyncStackTrace/blob/master/UnitTests/AsyncStackTraceExtensionUnitTest.cs
+Windows phone examples:
+https://github.com/ilio/AsyncStackTrace/tree/master/Examples/WindowsPhone
+
+Windows example: 
+https://github.com/ilio/AsyncStackTrace/blob/master/UnitTests/AsyncStackTraceExtensionUnitTest.cs
