@@ -5,3 +5,14 @@ AsyncStackTrace45/bin/*
 AsyncStackTrace45/obj/*
 UnitTests/bin/*
 UnitTests/obj/*
+*.user
+Examples/WindowsPhone/packages/*
+*.suo
+Examples/WindowsPhone/WindowsPhone81/obj/*
+Examples/WindowsPhone/WindowsPhoneSilverlight80/Bin/*
+Examples/WindowsPhone/WindowsPhone81/bin/*
+Examples/WindowsPhone/WindowsPhoneSilverlight80/obj/*
+Examples/WindowsPhone/WindowsPhoneSilverlight81/Bin/*
+Examples/WindowsPhone/WindowsPhoneSilverlight81/obj/*
+AsyncStackTraceWP80/Bin/*
+AsyncStackTraceWP80/obj/*
