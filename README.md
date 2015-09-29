@@ -84,8 +84,18 @@ try{
    }).RethrowUnhandled();
 }
 ```
-Windows phone examples:
-https://github.com/ilio/AsyncStackTrace/tree/master/Examples/WindowsPhone
+#More examples
+Windows Phone Silverlight 8.0 example:
+https://github.com/ilio/AsyncStackTrace/blob/master/Examples/WindowsPhone/WindowsPhoneSilverlight80/MainPage.xaml.cs
 
-Windows example: 
-https://github.com/ilio/AsyncStackTrace/blob/master/UnitTests/AsyncStackTraceExtensionUnitTest.cs
+Windows Phone Silverlight 8.1 example:
+https://github.com/ilio/AsyncStackTrace/blob/master/Examples/WindowsPhone/WindowsPhoneSilverlight81/MainPage.xaml.cs
+
+Windows phone 8.1 example:
+https://github.com/ilio/AsyncStackTrace/blob/master/Examples/WindowsPhone/WindowsPhone81/MainPage.xaml.cs
+
+Windows 10 (universal app) example:
+https://github.com/ilio/AsyncStackTrace/blob/master/Examples/Windows/Windows10/MainPage.xaml.cs
+
+Windows .NET 4.5 example: 
+https://github.com/ilio/AsyncStackTrace/blob/master/Examples/Windows/Windows45/Program.cs
