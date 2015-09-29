@@ -16,3 +16,8 @@ Examples/WindowsPhone/WindowsPhoneSilverlight81/Bin/*
 Examples/WindowsPhone/WindowsPhoneSilverlight81/obj/*
 AsyncStackTraceWP80/Bin/*
 AsyncStackTraceWP80/obj/*
+Examples/Windows/packages/*
+Examples/Windows/Windows10/bin/*
+Examples/Windows/Windows10/obj/*
+Examples/Windows/Windows45/bin/*
+Examples/Windows/Windows45/obj/*
